@@ -1,3 +1,9 @@
+:root {
+  font-family: "DotGothic16", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 body {
   background-image: url(kumo.png);
   background-repeat: repeat;
@@ -15,10 +21,4 @@ body {
   align-items: center;
   justify-content: center;
   gap: 16px;
-}
-
-.dotgothic16-regular {
-  font-family: "DotGothic16", sans-serif;
-  font-weight: 400;
-  font-style: normal;
 }
