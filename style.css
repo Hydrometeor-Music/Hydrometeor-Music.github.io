@@ -1,0 +1,19 @@
+body {
+  background-image: url(kumo.png);
+  background-repeat: repeat;
+  background-size: 2%;
+  min-height: 100vh;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
